@@ -14,7 +14,7 @@
 
  초급 - [JAVA200_Beginner](https://github.com/jiyeong1004/JAVA200_Beginner)
  
- 중급 - [JAVA200_Intermediate]()
+ 중급 - [JAVA200_Intermediate](https://github.com/jiyeong1004/JAVA200_Intermediate)
  
  활용 - [JAVA200_Utillization]()
  
