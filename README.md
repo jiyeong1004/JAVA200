@@ -16,7 +16,7 @@
  
  중급 - [JAVA200_Intermediate](https://github.com/jiyeong1004/JAVA200_Intermediate)
  
- 활용 - [JAVA200_Utillization]()
+ 활용 - [JAVA200_Utillization](https://github.com/jiyeong1004/JAVA200_Utillization)
  
  응용 - [JAVA200_Application]()
  
