@@ -18,7 +18,7 @@
  
  활용 - [JAVA200_Utillization](https://github.com/jiyeong1004/JAVA200_Utillization)
  
- 응용 - [JAVA200_Application]()
+ 응용 - [JAVA200_Application](https://github.com/jiyeong1004/JAVA200_Application)
  
  실무 - [JAVA200_Working-level]()
  
